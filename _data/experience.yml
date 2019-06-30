@@ -1,0 +1,24 @@
+fifth-place:
+- name: CJ Olivenetworks
+  role: 유통/물류 IT개발
+  date: JAN.2019 - Present
+
+fourth-place:
+- name: Software Maestro 8기
+  role: IoT Developer(Image processing through camera)
+  date: AUG.2017 - DEC.2017
+  
+third-place:
+- name: 국군사이버사령부
+  role: Team Manager of BackEnd Developer(Sergeant)
+  date: JUL.2014 - APR.2016
+
+second-place:
+- name: (주)쿠드인터랙티브
+  role: Co-founder(CTO)
+  date: APR.2013 - FEB.2017
+
+first-place:
+- name: 모두의 주차장
+  role: Android Developer
+  date: SEP.2012 - MAR.2013

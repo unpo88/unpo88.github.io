@@ -1,0 +1,37 @@
+# Permalinks
+permalink:      /:year-:month-:day/:title
+
+# Setup
+title:          Wonsub Choi
+baseurl:        ""
+url:            "https://unpo88.github.io"
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        :compressed
+
+# Build settings
+markdown:       kramdown
+
+# About
+author:
+author_name:          Wonsub Choi
+author_website_url:   https://unpo88.github.io
+author_email:         unpo88@naver.com
+author_location:      Seoul
+
+# Social links
+github_username:  unpo88
+facebook_username: wonseob.choe
+instagram_username: whatsubbs
+linkedin_username: wonsubchoi
+
+# Custom vars
+version:        3.4.1
+github:
+  repo:    
+
+# deployment
+host: 0.0.0.0
+port: 4000  
