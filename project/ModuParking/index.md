@@ -29,8 +29,7 @@ Startup Weekend는 기획자, 개발자, 디자이너 등 스타트업을 꿈꾸
 
 모두의 주차장(거주자 주차장 공유앱)이 1등상(150만원, 참가자 투표상 100만원)을 수상하였다. Test
 
-<style>.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }</style><div class='embed-container'><iframe src='https://www.youtube.com/embed/ct-ZXR739c4' frameborder='0' allowfullscreen></iframe></div>
-
+{% youtube https://www.youtube.com/watch?v=ct-ZXR739c4 %}
 ###### 제 8회 Startup Weekend 영상 [^1]
 
 ## 이미지 추가
