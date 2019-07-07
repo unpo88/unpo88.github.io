@@ -10,7 +10,7 @@ ridi: true
 portfolio: true
 post-header: true
 role-title: "Junior Software Engineer"
-role-specific: "IoT(Arduino, Raspberry PI), Back-end, Front-End, Image Processing"
+role-specific: "IoT(Arduino, Raspberry PI), Back-end(Python), Front-End, Image Processing, Bird's Eye View 기술 적용, K-Means Algorithm 개선, Tenslorflow API를 이용한 영상 분석 기능 개선"
 team: "개발자 4명"
 platforms: "IoT, Web, Android"
 date: "Aug 2017 - Dec 2017"
@@ -64,7 +64,7 @@ order: 4
 2. 영상 처리 최소화
     - 새로운 영상으로 렌더링하지 않고, 위치 데이터만을 아이콘화하여 표시, 분석된 선수들의 위치 정보는 서버에 캐싱 후 모든 영상으로부터 위치 정보를 분석하여 데이터베이스에 삽입한다.
 ![Watch Coach](img/WatchCoach_2.png)
-###### Watch Coach 시스템 구조
+###### Watch Coach 시스템 구조<br>
 3. 다중 카메라 시점 위치 동기화
     - 4대의 카메라에서 Transparent View한 영상을 바탕으로 사각지대 없이 촬영한다. 4대의 카메라를 동기화하여 Tensorflow를 이용한 Object Tracking을 실시한다.
 4. Bird's Eye View
