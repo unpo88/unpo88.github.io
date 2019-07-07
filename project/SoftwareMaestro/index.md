@@ -10,7 +10,7 @@ ridi: true
 portfolio: true
 post-header: true
 role-title: "Junior Software Engineer"
-role-specific: "IoT(Arduino, Raspberry PI), Back-end(Python), Front-End, Image Processing, Bird's Eye View 기술 적용, K-Means Algorithm 개선, Tenslorflow API를 이용한 영상 분석 기능 개선"
+role-specific: "IoT(Arduino, Raspberry PI), Back-end(Python), Front-End, Image Processing<br>Bird's Eye View 기술 적용, K-Means Algorithm 개선, Tenslorflow API를 이용한 영상 분석 기능 개선"
 team: "개발자 4명"
 platforms: "IoT, Web, Android"
 date: "Aug 2017 - Dec 2017"
