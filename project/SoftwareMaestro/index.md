@@ -80,7 +80,7 @@ order: 4
 7. Tensorflow Object Detection
     - Tensorflow 및 OpenCV를 이용하여 기계 학습을 바탕으로 유사 데이터를 분석하고 정확성을 향상시킨다.
 
-###### [Watch Coach 기반으로 작성된 논문 -> 지능형 다중 카메라 기반 스포츠 선수 코칭용 원격 전술 모니터링 시스템](http://35.196.80.208/%EC%A7%80%EB%8A%A5%ED%98%95%20%EB%8B%A4%EC%A4%91%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EA%B8%B0%EB%B0%98%20%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EC%84%A0%EC%88%98%20%EC%BD%94%EC%B9%AD%EC%9A%A9%20%EC%9B%90%EA%B2%A9%20%EC%A0%84%EC%88%A0%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
+###### [Watch Coach 기반 논문 -> 지능형 다중 카메라 기반 스포츠 선수 코칭용 원격 전술 모니터링 시스템](http://35.196.80.208/%EC%A7%80%EB%8A%A5%ED%98%95%20%EB%8B%A4%EC%A4%91%20%EC%B9%B4%EB%A9%94%EB%9D%BC%20%EA%B8%B0%EB%B0%98%20%EC%8A%A4%ED%8F%AC%EC%B8%A0%20%EC%84%A0%EC%88%98%20%EC%BD%94%EC%B9%AD%EC%9A%A9%20%EC%9B%90%EA%B2%A9%20%EC%A0%84%EC%88%A0%20%EB%AA%A8%EB%8B%88%ED%84%B0%EB%A7%81%20%EC%8B%9C%EC%8A%A4%ED%85%9C.pdf)
 
 ### 수상내역
 - 2018년 9월 경희대학교 2018 창의적 종합설계 경진대회 최우수상(교내)
