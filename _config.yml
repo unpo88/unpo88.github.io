@@ -4,7 +4,7 @@ permalink:      /:year-:month-:day/:title
 # Setup
 title:          Wonsub Choi
 baseurl:        ""
-url:            "https://unpo88.github.io"
+url:            "https://whatsubbs.com"
 
 # Assets
 sass:
@@ -17,7 +17,7 @@ markdown:       kramdown
 # About
 author:
 author_name:          Wonsub Choi
-author_website_url:   https://unpo88.github.io
+author_website_url:   https://whatsubbs.com
 author_email:         unpo88@naver.com
 author_location:      Seoul
 
@@ -34,8 +34,8 @@ github:
 
 # Plug
 plugins:
-    - jekyll-sitemap
     - jekyll-feed
+    
 # deployment
 host: 0.0.0.0
 port: 4000  
