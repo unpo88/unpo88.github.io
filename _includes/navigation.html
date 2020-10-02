@@ -9,10 +9,10 @@
                 <a href="{{ '../Awesome_CV.pdf' }}" {% if current[1] == "resume" %} class="active"{% endif %} >Resume</a>
             </li>
             <li class="transition">
-                <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
+                <a href="{{ '/blog/' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
             </li>
             <li class="transition">
-                <a href="{{ '/project' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Project</a>
+                <a href="{{ '/project/' | prepend: site.baseurl }}" {% if current[1] == "project" %} class="active"{% endif %} >Project</a>
             </li>
             <li class="transition">
                 <a href="{{ '/about' | prepend: site.baseurl }}" {% if current[1] == "about" %} class="active"{% endif %} >About</a>
