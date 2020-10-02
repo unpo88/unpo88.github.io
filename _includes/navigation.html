@@ -6,7 +6,7 @@
                 <a href="{{ '' | prepend: site.baseurl }}/" {% if current[1] == "resume" or current[1] == "blog" or current[1] == "project" or current[1] == "about" %} class="normal" {% endif %} class="active">Home</a>
             </li>
             <li class="transition">
-                <a href="{{ 'http://35.196.80.208/Awesome_CV.pdf' }}" {% if current[1] == "resume" %} class="active"{% endif %} >Resume</a>
+                <a href="{{ '../Awesome_CV.pdf' }}" {% if current[1] == "resume" %} class="active"{% endif %} >Resume</a>
             </li>
             <li class="transition">
                 <a href="{{ '/blog' | prepend: site.baseurl }}" {% if current[1] == "blog" %} class="active"{% endif %} >Blog</a>
