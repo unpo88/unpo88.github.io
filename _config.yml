@@ -13,7 +13,6 @@ sass:
 
 # Build settings
 markdown:       kramdown
-asset_url:      /assets
 
 # About
 author:
