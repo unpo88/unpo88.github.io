@@ -13,6 +13,7 @@ sass:
 
 # Build settings
 markdown:       kramdown
+asset_url:      /assets
 
 # About
 author:
@@ -31,12 +32,12 @@ g-analytics: UA-143391895-1
 # Custom vars
 version:        3.4.1
 github:
-  repo:    
+  repo:
 
 # Plug
 plugins:
     - jekyll-feed
-    
+
 # deployment
 host: 0.0.0.0
-port: 4000  
+port: 4000
