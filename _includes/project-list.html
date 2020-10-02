@@ -1,4 +1,19 @@
 <li class="workplace transition">
+    {% for sixth in site.data.experience.sixth-place %}
+    <p class="workplace-name">
+        {{ sixth.name }}
+    </p>
+    <div class="work-info">
+        <p>
+            {{ sixth.role }}
+        </p>
+        <p class="work-sub-info">
+            {{ sixth.date }}
+        </p>
+    </div>
+    {% endfor %}
+</li>
+<li class="workplace transition">
     {% for fifth in site.data.experience.fifth-place %}
     <p class="workplace-name">
         {{ fifth.name }}
